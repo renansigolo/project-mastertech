@@ -32,5 +32,8 @@
 #maps {
   width: 80%;
   margin: -10vh 13vh; }
+  @media (max-width: 991px) {
+    #maps {
+      display: none; } }
 
 /*# sourceMappingURL=styles.css.map */
