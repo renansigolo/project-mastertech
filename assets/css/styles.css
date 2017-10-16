@@ -30,4 +30,12 @@
     #maps {
       display: none; } }
 
+  /*styles da pagina drones*/
+
+  #foto {
+    width: 100%;
+    /*margin: -10vh 13vh */
+  }
+
+
 /*# sourceMappingURL=styles.css.map */
